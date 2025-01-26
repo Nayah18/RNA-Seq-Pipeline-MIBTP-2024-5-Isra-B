@@ -1,12 +1,12 @@
 #!/bin/bash
 
 ################################################################################
-# Script: fastp_trimming_pipeline.sh
+# Script: fastp_trimming.sh
 # Description: This script performs adapter trimming and quality filtering on 
 #              paired-end FASTQ files using fastp. It generates trimmed FASTQ 
 #              files and detailed reports for each sample.
 # Outputs: 
-#   - Trimmed FASTQ files in the specified output directory.
+#   - Trimmed FASTQ files in the output directory.
 #   - HTML and JSON reports for each sample in the report directory.
 # Author: Isra Boughanmi
 # Date: 26/01/2025

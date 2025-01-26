@@ -1,2 +1,2 @@
 # RNA-Seq-Pipeline-MIBTP-2024-5
-Code and methods for RNA-seq analysis of endometrial phases.
+Methods and scripts for analyzing RNA-seq data from human endometrial glands.
